@@ -1,5 +1,6 @@
 # COVID-19-in-US
 COVID-19 in Virginia and the US
+
 I got interested first in tracking cases in my own state of Virginia, based on the data the Virginia Department of Health 
 publishes daily. 
 
