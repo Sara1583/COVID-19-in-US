@@ -31,4 +31,4 @@ VDH typically updates its web site by 10 a.m. ET based on what was verified by 5
 
 New York: 
 
-New York State, during its peak, was about a third of US COVID-19 cases total, so I was interested in what the total US case count looked like without New York cases. Later I added a graph that excluded both New York and New Jersey cases, since both peaked highly around the same time. Those graphs and calculations use the Johns Hopkins data that populates their map. Raw data can be found here: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+New York State, during its peak, was about a third of US COVID-19 cases total, so I was interested in what the total US case count looked like without New York cases. Later I added a graph that excluded both New York and New Jersey cases, and another that excluded New York, New Jersey, and Massachussetts, since all peaked around the same time. Those graphs and calculations use the Johns Hopkins data that populates their map. Raw data can be found here: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
