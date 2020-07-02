@@ -29,6 +29,10 @@ A note on May 6 and 7 reporting:
 
 VDH typically updates its web site by 10 a.m. ET based on what was verified by 5 p.m. ET the day before. The web site had a glitch on the night of May 5, so the web site was not updated on May 6. Combined numbers were publshed on May 7. There are a few different ways to handle that when dealing with daily numbers. Worldometer and Johns Hopkins, because they publish more than just Virginia numbers, left Virginia updates as 0 for all categories and locations for May 6. The Virginia Public Access Project eliminated May 6 from their graph altogether. I decided to take what was new from May 5 to May 7 and split the difference between May 6 and May 7. 
 
+Virginia V2:
+
+These graphs are generated using the Viginia Department of Health csv files that are availble on the VDH web site. These graphs and charts look slightly different from the graphs produced from manually updated lists, particularly early in pandemic reporting. The date starts with March 17, 2020 rather than Match 7, 2020. 
+
 New York: 
 
 New York State, during its peak, was about a third of US COVID-19 cases total, so I was interested in what the total US case count looked like without New York cases. Later I added a graph that excluded both New York and New Jersey cases, and another that excluded New York, New Jersey, and Massachussetts, since all peaked around the same time. Those graphs and calculations use the Johns Hopkins data that populates their map. Raw data can be found here: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
